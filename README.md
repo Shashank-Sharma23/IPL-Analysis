@@ -66,7 +66,7 @@ The following Power BI functionalities were employed in the project:
 Below is a preview of the IPL Power BI Dashboard:
 
 
-![Dashboard Preview](IPL Dashboard.png)
+![Dashboard Preview]([IPL Dashboard.png](https://github.com/Shashank-Sharma23/IPL-Analysis/blob/main/IPL%20Dashboard.PNG))
 
 ---
 
